@@ -47,7 +47,7 @@ add_filter('noindex-pages-post-types', 'noindex_for_cpts');
 
 ## Screenshots ##
 
-![Preview of the publish post box when editing a page](screenshot.jpg)
+![Preview of the publish post box when editing a page](screenshot-1.jpg)
 
 
 ## Changelog ##
