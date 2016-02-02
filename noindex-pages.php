@@ -12,7 +12,8 @@ License:     GPL2
 /*
 GNU GENERAL PUBLIC LICENSE
 
-Ask search engines not to index individual pages by checking an option in the publish post box.
+A WordPress plugin that allows you to mark pages with an option to hide 
+from search engines, by adding a noindex meta tag to the single page's <head>
 Copyright (C) 2015 Radley Sustaire
 
 This program is free software: you can redistribute it and/or modify
