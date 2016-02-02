@@ -1,2 +1,5 @@
-# Noindex-Pages
-A WordPress plugin that allows you to mark pages with an option to hide from search engines, by adding a noindex meta tag to the single page's &lt;head>.
+# Noindex Pages #
+
+Ask search engines not to index individual pages by checking an option in the publish post box.
+
+![Preview of the publish post box when editing a page](screenshot.jpg)
