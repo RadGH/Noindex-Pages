@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Noindex Pages
-Version:     1.0.0
+Version:     1.0.1
 Plugin URI:  http://radgh.com/
 Description: Ask search engines not to index individual pages by checking an option in the publish post box.
 Author:      Radley Sustaire
