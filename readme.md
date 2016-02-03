@@ -47,7 +47,8 @@ add_filter('noindex-pages-post-types', 'noindex_for_cpts');
 
 ## Screenshots ##
 
-![Preview of the publish post box when editing a page](screenshot-1.jpg)
+![The publish box when editing a page, the added checkbox is highlighted.](screenshot-1.png)
+![The source code for the page, the added meta tag is highlighted.](screenshot-2.png)
 
 
 ## Changelog ##

@@ -43,14 +43,20 @@ add_filter('noindex-pages-post-types', 'noindex_for_cpts');`
 
 == Screenshots ==
 
-1. Preview of the publish post box when editing a page, and the HTML tag being displayed on the page.
+1. The publish box when editing a page, the added checkbox is highlighted.
+1. The source code for the page, the added meta tag is highlighted.
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.1 =
+* Improved screenshot quality for wordpress.org
+* Corrected "Tested up to" version number
+* Corrected "Requires at least" version number
+
+= 1.0.0 =
 * First release
 * Pre-release version notes can be found on Github
 
 == Upgrade Notice ==
 
-Nothing to note, this is the first version.
+Nothing to worry about!
